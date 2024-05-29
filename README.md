@@ -1,5 +1,7 @@
 # Google Data Analytics Professional Certificate Case Study: Cyclistic
 
+I've recently completed the *Google Data Analytics Professional Certificate* program, which culminated in a series of case study "capstone" projects designed to help build a professional portfolio. For my capstone, I selected the *Cyclistic* case study, focusing on a fictional bike-share company based in Chicago. My task was to analyze datasets to identify differences and trends between casual riders and annual members. Using SQL for data analysis and Tableau for visualization, I created visual insights and brainstormed three strategies to help Cyclistic succeed.
+
 ## Introduction
 **Client:** Cyclistic
 

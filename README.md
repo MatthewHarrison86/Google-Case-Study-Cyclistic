@@ -79,7 +79,7 @@ member_casual
 
 /*Next, I repeated the process with the other months of the year 2023, and perfomed a UNION with each of the 12 tables to create one for the whole year.*/
 ```
-### Analyze
+## Analyze
 In my analysis, I discovered several trends:
 
 There are about one-third more annual members than casual riders.
@@ -88,10 +88,12 @@ Casual riders tend to take longer rides, especially in the warmer summer months.
 Casual riders predominantly use the service on weekends, while members ride more during the week.
 This suggests that locals use Cyclistic for commuting, and a mix of locals and tourists use the service for leisure on summer weekends.
 
-### Share
-I have prepared a Tableau notebook featuring a series of dashboards that illustrate my findings, including brief annotations explaining the charts in more detail.
+## Share
+I have prepared a Tableau story featuring a series of dashboards that illustrate my findings, including brief annotations explaining the charts in more detail.
 
-### Act
+### [View my Tableau story here, on Tableau Public.](https://public.tableau.com/views/GoogleDataAnalyticsCaseStudy-Cyclistic_17170094618250/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+## Act
 The final slide contains a few suggestions for Moreno and the executives to consider for the upcoming marketing campaign. My top 3 recommendations are:
 
 1. Offer a Discounted Membership: Provide a discounted membership or a free month to new members who sign up during the slower fall and winter months.
